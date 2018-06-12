@@ -44,7 +44,6 @@ namespace Wpf_Tic_Tac_Toe
         {
             try
             {
-                //tcpListener = new TcpListener(IPAddress.Any, 8888);
                 tcpListener = new TcpListener(IPAddress.Any, _PORT);
 
                 tcpListener.Start();

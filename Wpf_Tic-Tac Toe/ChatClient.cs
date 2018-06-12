@@ -12,9 +12,9 @@ namespace Wpf_Tic_Tac_Toe
     {
         public SocketManagement con;
         //static string userName;
-        private string host/* = "127.0.0.1"*/;
-        //private const int port = 8888;
-        private int port/* = 8080*/;
+        private string host;
+
+        private int port;
 
         static TcpClient client;
         static NetworkStream stream;
