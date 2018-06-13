@@ -12,7 +12,7 @@ You can play this game locally and via the internet.
 ## Get Started
 
 ### To start playing this game (on Windows):
-### NOTE To launch this game you have to have open port on your Windows.
+### NOTE: To launch this game you have to have open port on your Windows.
 1.  Download Wpf_Tic_Tac_Toe
 2. Open Wpf_Tic_Tac_Toe.sln in Visual Studio and Build->Rebuild Solution. Shut down Visual Studio.
 #### Let's start server:
