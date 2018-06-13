@@ -9,9 +9,8 @@ It implements the Tic-tac-toe game for a large number pairs of players.
 I.e. a server is created on one computer, with the specifying IP address and port. After this, any (even) number of clients can connect to the server (specifying IP and port on which the server was started) and start the game with each other.
 You can play this game locally and via the internet.
 
-## Get Started
+## Get Started (To start playing this game (on Windows))
 
-### To start playing this game (on Windows):
 ### NOTE: To launch this game you have to have open port on your Windows.
 1.  Download Wpf_Tic_Tac_Toe
 2. Open Wpf_Tic_Tac_Toe.sln in Visual Studio and Build->Rebuild Solution. Shut down Visual Studio.
