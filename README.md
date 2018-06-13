@@ -23,8 +23,8 @@ You can play this game locally and via the internet.
 8. Click "Server" button (to start as Server)
 #### So server is started, now you can join to it as client:
 9. Repeat actions from 3, 5, 7
-10. Start as Client
-Now only one client have joined to game. To start game should be at least 2 clients (players). So join at least one more client.So the game started :)
+10. Start as Client  
+Now only one client have joined to game. To start game should be at least 2 clients (players). So join at least one more client.So the game started :)  
 You can join to game any even number of clients (players), to do it repeat actions from 3,5,7,10.
 
 Thanks!
